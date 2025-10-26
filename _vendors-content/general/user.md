@@ -1,4 +1,4 @@
----
+LG 901
 manufacturer:
     - general
 ---
